@@ -1,0 +1,74 @@
+/* index page */
+.title {
+    color: cornflowerblue;
+    background-color: lightsteelblue;
+    text-align: center;
+    font-weight: bold;
+}
+
+.recipe-name {
+    color: gray;
+    font-size: larger;
+    font-weight: bold;
+}
+
+/* souffle pancake page */
+.pan-body {
+    text-align: center;
+    color: black;
+    background-color: wheat;
+}
+
+.pancake {
+    color: orange;
+    background-color: wheat;
+    font-weight: bold;
+    text-align: center;
+}
+
+.pancake-img {
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/* mango sago page */
+
+.mango {
+    text-align: center;
+    background-color: lightpink;
+    color: salmon;
+
+}
+
+.man-img {
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.man-body {
+    text-align: center;
+    background-color: lightpink;
+}
+
+
+/* dalgona coffee page */
+
+.dalgonacoffee {
+    color: darkgoldenrod;
+    background-color: burlywood;
+    text-align: center;
+}
+
+.coffee-img {
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.dal-body {
+    text-align: center;
+    color: black;
+    background-color: burlywood;
+}
